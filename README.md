@@ -1,6 +1,3 @@
-Voici le code Markdown de votre projet Circuit_game à copier-coller directement :
-
-Markdown
 
 # Circuit_game
 Jeu de course de voitures en C++
